@@ -1,5 +1,7 @@
 # 원자료와 접근 권한
 
+일정·교육 설계에 필요한 내용은 [SCHEDULE](SCHEDULE.md), [CURRICULUM](CURRICULUM.md), [PRELIMINARY](PRELIMINARY.md), [FINAL](FINAL.md)에 담았다. 아래 원본 경로는 추가 검증용이며 해당 원문이 없더라도 위 문서와 양식으로 운영·커리큘럼 초안을 작성할 수 있다.
+
 공개 저장소에는 사내 문서 URL·문서 ID·개인 연락처를 싣지 않는다. 후임자는 운영 총괄에게 아래 보관처의 접근 권한과 비공개 링크 목록을 요청한다.
 
 | 보관처 | 요청할 자료 |

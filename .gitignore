@@ -6,3 +6,5 @@
 !SOURCE_MANIFEST.json
 !docs/
 !docs/*.md
+!templates/
+!templates/*.csv

@@ -1,6 +1,6 @@
 {
   "distilled_at": "2026-09-22",
-  "scope": "Local source distillation and handover review; no live operational verification; source files excluded; hashes do not prove approval or accuracy",
+  "scope": "Self-contained educational and operational handover adapted from local sources; proposals labeled; no live operational verification; source files excluded",
   "sources": [
     {
       "path": "CLAUDE.md",
@@ -81,6 +81,30 @@
     {
       "path": "output/interim-report/evidence/jitda-guide.txt",
       "sha256": "61fefb5e2f0e7dfd3b822ca3b3b8fcd50406dd117ae6d52f0cd63220239f44dc"
+    },
+    {
+      "path": "IndustryLinked/03_session_plans/00_master_schedule.md",
+      "sha256": "9f4a2432e4e8b848ca18f4d88ad0364df3d0b41344580dd446b8f0d25377e81c"
+    },
+    {
+      "path": "IndustryLinked/03_session_plans/day1_03.md",
+      "sha256": "be9e03ffe339ccc7b04ab03fd67b0ae2097f678296a699ee9354b5b2a15dc2d5"
+    },
+    {
+      "path": "IndustryLinked/03_session_plans/day1_04.md",
+      "sha256": "376c047e09d8b752041a47b89002d2fed6c30729d6c7b9874d85eb0d349d80de"
+    },
+    {
+      "path": "IndustryLinked/03_session_plans/day1_05.md",
+      "sha256": "359f66394b58440db85e008094bee6b8dfac179ea21d6e5f575fa4431ee9696f"
+    },
+    {
+      "path": "IndustryLinked/강사용_산출물_점검_체크리스트.md",
+      "sha256": "0ca343d63d4fead3fb04e88ce17067a0c078db10bcfc8d331f8b4fa33bc4aaa5"
+    },
+    {
+      "path": "drafts/기업탐방_안내_초안.md",
+      "sha256": "3cc0fb3fe556f9976108f79274edd2d9e9030ea809f636e9b83bc872961acc33"
     }
   ],
   "reviewed_at": "2026-09-22"
