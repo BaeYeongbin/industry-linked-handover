@@ -29,6 +29,9 @@
 | `output/interim-report/붙임1_내용조사.md` | 9/11 Codle 자료 조회 범위·한계 |
 | `output/interim-report/붙임1_차시별_학습과정안.md` | 보고용 원고. 최종 제출 파일과 구분 |
 | `output/interim-report/evidence/` | 위 조사 당시 시간표·교안 조회 증거 |
+| `drafts/짓다_수업지원_이벤트_안내.md` | 학교 수업 지원의 접수·공지 상태와 교원 본선과의 구분 |
+| `drafts/향후일정_공지_초안.md` | 예선 기간·본선 및 이수 안내의 후속 기록 |
+| `output/interim-report/evidence/jitda-guide.txt` | 당시 참가자 가이드의 프로젝트 전환·공개·다운로드 설명 |
 | `create_company_visit_survey.py` | 9월 탐방 만족도 설문 설계. 생성/배포/응답 증거와 구분 |
 | `drafts/식대기준_재점검_메모.md` | 당시 상충·질의안. 확정 정산 기준 아님 |
 

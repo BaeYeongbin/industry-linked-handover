@@ -1,6 +1,6 @@
 {
   "distilled_at": "2026-09-22",
-  "scope": "Local source distillation; no live operational verification; source files excluded",
+  "scope": "Local source distillation and handover review; no live operational verification; source files excluded; hashes do not prove approval or accuracy",
   "sources": [
     {
       "path": "CLAUDE.md",
@@ -69,6 +69,19 @@
     {
       "path": "drafts/식대기준_재점검_메모.md",
       "sha256": "ebb1c28c3ab2c01a346b4d3d38ec387222eefd5e3cb35bf0f1ad1cb207085d23"
+    },
+    {
+      "path": "drafts/짓다_수업지원_이벤트_안내.md",
+      "sha256": "724cdd34b5f749dfc4bb3820acf2439a5b82bef61c58518f9e0bb8014882a2ea"
+    },
+    {
+      "path": "drafts/향후일정_공지_초안.md",
+      "sha256": "ec5d9c139138e7c84e600575d8a884cfb9b2030571b86f7ca27eb47d4527a27c"
+    },
+    {
+      "path": "output/interim-report/evidence/jitda-guide.txt",
+      "sha256": "61fefb5e2f0e7dfd3b822ca3b3b8fcd50406dd117ae6d52f0cd63220239f44dc"
     }
-  ]
+  ],
+  "reviewed_at": "2026-09-22"
 }
