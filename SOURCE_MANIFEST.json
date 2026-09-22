@@ -1,0 +1,74 @@
+{
+  "distilled_at": "2026-09-22",
+  "scope": "Local source distillation; no live operational verification; source files excluded",
+  "sources": [
+    {
+      "path": "CLAUDE.md",
+      "sha256": "3c36c6c8ad7f0d6acf0bfc5cd6bf4f85d20294fb80e2f953e47cde3323808900"
+    },
+    {
+      "path": "CONTEXT.md",
+      "sha256": "7b11a3eded53bc3bd177cedefc5eb0ba07dcc75ca67990e2278017d8bada07a0"
+    },
+    {
+      "path": "tasks.json",
+      "sha256": "68ae03d6842d916b8376118346d960475470de65c305858a4057a60313f41775"
+    },
+    {
+      "path": "data.json",
+      "sha256": "d325351e7ec33580b1b3c98becf9f30b283d687aaee5fdadeb200de3e4385a6c"
+    },
+    {
+      "path": "사업운영_프로세스_전주기.md",
+      "sha256": "076d0dd62a239a4235084152727d3619d910684bcc598a814fe2db37d5526822"
+    },
+    {
+      "path": "IndustryLinked/00_연수운영계획_확정.md",
+      "sha256": "9fc726c208afb8d314f6135858d16f9943908e387ddbcca19e16cba9754b1802"
+    },
+    {
+      "path": "proceedings/2026-08-20/회의결과_정리.md",
+      "sha256": "4bd830a54f589ab63039737259096e6c101ce213b2f2b072a7095d578c08f24b"
+    },
+    {
+      "path": "drafts/FACTS.md",
+      "sha256": "e2febf5580977584f6d35e8b09c815b59bf12c15af7c7333b1ab313ca0021ce6"
+    },
+    {
+      "path": "drafts/3차연수_모집공고_초안.md",
+      "sha256": "d354ac9124ad11371244b11c69b004686e1aa480478521322b364c1c23596430"
+    },
+    {
+      "path": "drafts/3차연수_시간표_초안.md",
+      "sha256": "cf2025df334e37e8f61a1be7658e31ea4a027222c846aef4f29b491b2c669309"
+    },
+    {
+      "path": "해커톤_운영기획안_초안.md",
+      "sha256": "35feb86003c13219a34da48c7094df4aed93b3e1b1c7a8842c6acec9cbf58cfb"
+    },
+    {
+      "path": "attendance.py",
+      "sha256": "6ae83af5a466af20526aa1f6b4c3e42667fe9442410357bd141877d972fae250"
+    },
+    {
+      "path": "만족도_분석_보완사항.md",
+      "sha256": "b091bfc10f9eece2c418fcf897372e5d61c36381dcd39e54c2d4a73ae2801a74"
+    },
+    {
+      "path": "output/interim-report/붙임1_내용조사.md",
+      "sha256": "1fa1a53343e0c297bb33cfa81b2d521b02af19d4418228a99c5f953ea649c288"
+    },
+    {
+      "path": "output/interim-report/붙임1_차시별_학습과정안.md",
+      "sha256": "8f2bceb34d5fe347cbef7ef9f6313e92f2f284650650cc63362f068c0bd3b238"
+    },
+    {
+      "path": "create_company_visit_survey.py",
+      "sha256": "26644222f6847c37bb6181cb992f13a9f8dc7a29138dcd844d6af5cf527699ec"
+    },
+    {
+      "path": "drafts/식대기준_재점검_메모.md",
+      "sha256": "ebb1c28c3ab2c01a346b4d3d38ec387222eefd5e3cb35bf0f1ad1cb207085d23"
+    }
+  ]
+}

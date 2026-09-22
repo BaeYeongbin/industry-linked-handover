@@ -1,0 +1,8 @@
+# 기본적으로 문서와 증류 근거 목록만 허용
+*
+!.gitignore
+!README.md
+!AGENTS.md
+!SOURCE_MANIFEST.json
+!docs/
+!docs/*.md
